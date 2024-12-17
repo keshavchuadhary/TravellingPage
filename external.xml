@@ -1,0 +1,12 @@
+<? xml version="1.0">
+<!DOCTYPE class SYSTEM "class.dtd">
+
+<Class>
+   <stduent>
+     <name>Kesahv Chaudhary</name>
+     <roll no> 8 </roll no>
+     <department> BCA </departmrnt>
+     <Address> kritipur </Address>
+     </stduent>
+     
+</Class>

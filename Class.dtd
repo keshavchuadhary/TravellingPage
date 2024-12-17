@@ -1,0 +1,7 @@
+<?xml version ="1.0"?>
+<!ELEMENT Class (student)>
+<!ELEMENT student(name,rollno,department,address)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT rollno(#PCDATA)>
+<!ELEMENT department(#PCDATA)>
+<!ELEMENT address(#PCDATA)>
